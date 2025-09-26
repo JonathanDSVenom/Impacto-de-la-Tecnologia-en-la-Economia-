@@ -1,7 +1,7 @@
 Impacto-de-la-Tecnologia-en-la-Economia
 
 <div align="center">
-  <img src="IMG-20250924-WA0008.jpg"  alt="Imagen de ejemplo">
+  <img src="IMG-20250924-WA0004.jpg" alt="Imagen de ejemplo">
 </div>
 
 En este proyecto de ciencia de datos vamos a ver cómo la tecnología ha transformado la forma en que las empresas producen, operan y generan valor mediante herramientas como la inteligencia artificial, el big data, el internet de las cosas y la automatización.
